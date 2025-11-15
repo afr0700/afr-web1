@@ -72,7 +72,7 @@
             "hurricane.lipcon.com", "www.lipcon.com", "investor.medallia.com", "go.medallia.com", "app.midtrans.com", 
             "www.midtrans.com", "api.midtrans.com", "dashboard.midtrans.com", "account-gopay.midtrans.com", "s.shopee.co.id", 
             "cf.shopee.co.id", "s.lazada.co.id", "store.linefriends.com", "collection.linefriends.com", "help.line.me", 
-            "api24-normal.tiktokv.com", "api24-normal-useast1a.tiktokv.com", "api24-normal-alisg.tiktokv.com"
+            "api24-normal.tiktokv.com", "api24-normal-useast1a.tiktokv.com", "api24-normal-alisg.tiktokv.com","cf.shopee.co.id.sea-sw.swiftserve.com", "graph.instagram.com", "web.poe.garena.com", "www.freefiremobile.com", "dl.cvs.freefiremobile.com"
         ];
         
         const bugOptions = [
