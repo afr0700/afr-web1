@@ -6,7 +6,7 @@
         const CONFIG = {
             // === PERUBAHAN 1: URL diubah ke file lokal ===
             proxyListUrl: "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/ProxyList.txt",
-            apiCheckUrl: "https://api.jb8fd7grgd.workers.dev",
+            apiCheckUrl: "https://webproxyip.afrcloudn.workers.dev",
             mainDomains: [
                 "antiquewhite.qzz.io",
                 "bisque.qzz.io",
