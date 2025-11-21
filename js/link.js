@@ -51,7 +51,7 @@
         // ** MODIFIKASI INTI: Pilih domain acak saat inisialisasi **
         let selectedServerDomain = selectRandomDomain(serverDomains);
         
-        const API_STATUS_URL = "https://api.jb8fd7grgd.workers.dev";
+        const API_STATUS_URL = "https://webproxyip.afrcloudn.workers.dev";
         const defaultProxyUrl = "https://raw.githubusercontent.com/afr0700/ProxyList/refs/heads/main/ProxyList.txt"
         const itemsPerPage = 10
         let currentPage = 1
